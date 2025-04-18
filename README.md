@@ -62,7 +62,7 @@ Play music, download tracks with progress indicators, and manage playback in a c
 ---
 
 ## Folder Structure
-
+```bash
 music-player/
 ├── main.py               # Entry point
 ├── player.py             # Playback logic
@@ -70,7 +70,7 @@ music-player/
 ├── database/             # SQLite integration
 ├── ui/                   # UI layout and assets
 └── README.md
-
+```
 ---
 
 ## Future Improvements
