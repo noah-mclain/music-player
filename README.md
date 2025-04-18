@@ -55,7 +55,6 @@ Play music, download tracks with progress indicators, and manage playback in a c
 3. **Install FFmpeg**
    [Download FFmpeg](https://ffmpeg.org/download.html) and add it to your system path.
    
-
 4. **Run the App**
    ```bash
    python3 Music_player/main.py
