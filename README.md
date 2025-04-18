@@ -52,8 +52,7 @@ Play music, download tracks with progress indicators, and manage playback in a c
    pip install -r requirements.txt
    ```
    
-3. **Install FFmpeg**
-   [Download FFmpeg](https://ffmpeg.org/download.html) and add it to your system path.
+3. **[Install FFmpeg](https://ffmpeg.org/download.html)** and add it to your system path.
    
 4. **Run the App**
    ```bash
